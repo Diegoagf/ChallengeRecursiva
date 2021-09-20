@@ -38,11 +38,12 @@ namespace ChallengeRecursiva.Helpers
 
         internal static List<string> Consultas(string opcion, List<SociosModel> socios)
         {
-            List<string> listastring = new List<string>();
+            List<string> listastring = new List<string>();   
+
             switch (opcion)
             {
                 case "2":
-                    double promedio = socios.Where(cas => cas.Equipo == "Racing")
+                   double  promedio = socios.Where(cas => cas.Equipo == "Racing")
                                              .Select(e => e.Edad)
                                              .Average();
                                              

@@ -1,8 +1,5 @@
-﻿using CsvHelper;
-using System;
+﻿using System;
 using System.IO;
-using System.Globalization;
-using System.Linq;
 using ChallengeRecursiva.Models;
 using System.Collections.Generic;
 
@@ -16,9 +13,8 @@ namespace ChallengeRecursiva
 
             try
             {
-                
-                path = Directory.GetCurrentDirectory() + "\\socios.csv";
-                //string pathenv = Environment.GetEnvironmentVariable("Path");
+                //Path del archivo
+                path = Directory.GetCurrentDirectory() + "\\socios.csv";               
                 
 
                 //Lectura y serialización del archivo

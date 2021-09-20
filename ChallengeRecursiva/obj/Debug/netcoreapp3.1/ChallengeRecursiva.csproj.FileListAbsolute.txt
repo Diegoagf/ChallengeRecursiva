@@ -4,13 +4,10 @@ C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\bin\Debug\netc
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\bin\Debug\netcoreapp3.1\ChallengeRecursiva.runtimeconfig.dev.json
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\bin\Debug\netcoreapp3.1\ChallengeRecursiva.dll
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\bin\Debug\netcoreapp3.1\ChallengeRecursiva.pdb
-C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\bin\Debug\netcoreapp3.1\CsvHelper.dll
-C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.csproj.AssemblyReference.cache
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.AssemblyInfoInputs.cache
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.AssemblyInfo.cs
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.csproj.CoreCompileInputs.cache
-C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.csproj.CopyComplete
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.dll
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.pdb
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Debug\netcoreapp3.1\ChallengeRecursiva.genruntimeconfig.cache

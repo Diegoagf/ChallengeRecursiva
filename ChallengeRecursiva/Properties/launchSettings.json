@@ -1,0 +1,15 @@
+{
+  "profiles": {
+    "ChallengeRecursiva": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Path": "C:\\Users\\Diego\\source\\repos\\ChallengeRecursiva\\ChallengeRecursiva\\Files\\socios.csv",
+        "Clave": "Valor"
+      }
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

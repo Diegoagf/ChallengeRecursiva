@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FijHWc4ykXPKV+Umyu65UoGef429Pvro2GxFJ3GmllnYcD+KoTq68fA7iRKbgR4uxJGBAf3rttKIpq8klHF6mg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Diego\\source\\repos\\ChallengeRecursiva\\ChallengeRecursiva\\ChallengeRecursiva.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\3.1.19\\microsoft.netcore.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\3.1.19\\microsoft.windowsdesktop.app.runtime.win-x86.3.1.19.nupkg.sha512",
+    "C:\\Users\\Diego\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\3.1.19\\microsoft.aspnetcore.app.runtime.win-x86.3.1.19.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -11,3 +11,4 @@ C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Release\ne
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Release\netcoreapp3.1\ChallengeRecursiva.dll
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Release\netcoreapp3.1\ChallengeRecursiva.pdb
 C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Release\netcoreapp3.1\ChallengeRecursiva.genruntimeconfig.cache
+C:\Users\Diego\source\repos\ChallengeRecursiva\ChallengeRecursiva\obj\Release\netcoreapp3.1\ChallengeRecursiva.csproj.AssemblyReference.cache
